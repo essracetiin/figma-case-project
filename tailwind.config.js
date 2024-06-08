@@ -55,10 +55,24 @@ module.exports = {
             fontWeight: 700,
           },
         ],
+        "body-m": [
+          "16px",
+          {
+            lineHeight: "22.4px",
+            fontWeight: 400,
+          },
+        ],
         "body-l": [
           "18px",
           {
             lineHeight: "28.8px",
+          },
+        ],
+        "body-xl": [
+          "20px",
+          {
+            lineHeight: "36px",
+            fontWeight: 400,
           },
         ],
       },
